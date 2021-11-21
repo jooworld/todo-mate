@@ -1,3 +1,15 @@
 .Feed {
     color: white;
 }
+
+.btn {
+  background-color: #444444;
+  border-radius: 10px;
+  box-shadow: none;
+}
+
+.category {
+    margin-left: 5px;
+    margin-right: 5px;
+    color: green;
+}
