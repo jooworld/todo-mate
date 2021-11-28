@@ -5,7 +5,13 @@
 .btn {
   background-color: #444444;
   border-radius: 10px;
-  box-shadow: none;
+}
+
+.btn > div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
 }
 
 .category {

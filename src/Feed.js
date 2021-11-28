@@ -7,13 +7,13 @@ const Feed = () => {
         <div>
             <h1 className="Feed">Feed</h1>
 
-            <button className="btn">
-                <div style={{ display: "flex", alignItems: "center", justifyContent: "center" }}>
+            <div className="btn">
+                <div>
                     <MdInventory size="20" color="white" />
                     <h3 className="category">일반</h3>
                     <MdAddCircleOutline size="17" color="white" />
                 </div>
-            </button>
+            </div>
         </div>
     );
 }
